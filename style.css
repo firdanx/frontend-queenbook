@@ -62,7 +62,16 @@
   z-index: -1;
   margin-bottom: 1vh;
 }
-
+.bg-login {
+  background-color: #bfe4ff;
+}
+.bg-login .card {
+  width: 26rem;
+  background-color: #89c2f7;
+}
+.bg-login img {
+  width: 240px;
+}
 #progressbar li:after {
   content: "";
   height: 3px;
